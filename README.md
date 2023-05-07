@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mehrab-m-sayem. You can call me Sayem
-- 👀 I’m interested in I don't know still now. I am still exploring.
-- 🌱 I’m currently learning Problem solving.
-- 💞️ I’m looking to collaborate on [Nothing till now]
-- 📫 How to reach me @SaemX at Telegram.
+- 👀 I’m interested in Front end Web development
+- 🌱 I’m currently learning React and Node.js
+- 💞️ I’m looking to collaborate on Web development projects
+- 📫 How to reach me: @SaemX at Telegram.
 - 📩mmsayem@outlook.com
 
 <!---
