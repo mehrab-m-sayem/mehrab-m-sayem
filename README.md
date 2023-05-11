@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sayem</h1>
-<h3 align="center">I am Computer Science and Engineering undergrad at BRAC University</h3>
+<h3 align="center">I am a Computer Science and Engineering undergrad at BRAC University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehrab-m-sayem&label=Profile%20views&color=0e75b6&style=flat" alt="mehrab-m-sayem" /> </p>
 
