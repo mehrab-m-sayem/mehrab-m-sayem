@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development related projects**
 
-- 📫 How to reach me **mmsayem@outlook.com**
+- 📫 How to reach me **memsayem@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
