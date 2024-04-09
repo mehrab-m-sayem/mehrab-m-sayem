@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mehrab_exists" target="blank"><img src="https://img.shields.io/twitter/follow/mehrab_exists?logo=twitter&style=for-the-badge" alt="mehrab_exists" /></a> </p>
 
-- 🌱 I’m currently learning **React, Node.JS, Python**
+- 🌱 I’m currently learning **PHP, mysql, Python**
 
 - 👯 I’m looking to collaborate on **Web Development related projects**
 
