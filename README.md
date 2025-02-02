@@ -5,12 +5,12 @@
 
 <p align="left"> <a href="https://twitter.com/mehrab_exists" target="blank"><img src="https://img.shields.io/twitter/follow/mehrab_exists?logo=twitter&style=for-the-badge" alt="mehrab_exists" /></a> </p>
 
-- 🌱 I’m currently learning **PHP, mysql, Python**
+- 🌱 I’m currently learning **PHP, mysql, Python, React, C++**
 
 - 👯 I’m looking to collaborate on **Web Development related projects**
 
 - 📫 How to reach me (https://mehrab-m-sayem.carrd.co/)
-- Visit me: https://mehrab-m-sayem.github.io/
+- Visit me: https://mehrab-m-sayem.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
