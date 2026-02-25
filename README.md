@@ -10,8 +10,8 @@
 - 👯 I’m looking to collaborate on **Web Development related projects**
 
 
-- Visit me: (https://www.mehrabmsayem.dev/)
-
+- Visit me: https://www.mehrabmsayem.dev/
+- contact me: contact@mehrabmsayem.dev
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mehrab_exists" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehrab_exists" height="30" width="40" /></a>
